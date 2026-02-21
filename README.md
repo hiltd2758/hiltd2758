@@ -1,7 +1,11 @@
 <div align="center">
 
+<!-- Animated Header Wave -->
+<!-- Animated Wave Header with Gradient -->
+<!-- Animated Wave Header with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,3,5,30&amp;height=300&amp;section=header&amp;text=Tran%20Dong%20Hil&amp;fontSize=90&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Frontend%20Engineer%20%26%20Computer%20Science%20Student&amp;descSize=22&amp;descAlignY=58&amp;descAlign=50" width="100%" />
 
+<!-- Animated Typing with Tech Stack -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=80&amp;lines=TypeScript+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
@@ -12,6 +16,7 @@
 
 <br>
 
+<!-- About Section with Minimal Design -->
 <div align="center">
   
 ### DEVELOPER PROFILE
@@ -46,6 +51,7 @@ const developer = {
 
 <br>
 
+<!-- Tech Stack Section -->
 <div align="center">
 
 ### TECHNOLOGY ARSENAL
@@ -71,7 +77,7 @@ const developer = {
 <td valign="top" width="33%">
 
 <div align="center">
-<strong>BACKEND &amp; DATA</strong>
+<strong>BACKEND & DATA</strong>
 <br><br>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
@@ -101,6 +107,7 @@ const developer = {
 
 <br>
 
+<!-- GitHub Statistics -->
 <div align="center">
 
 ### CONTRIBUTION METRICS
@@ -122,16 +129,19 @@ const developer = {
 
 <br>
 
+<!-- Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hiltd2758&theme=radical&hide_border=true&background=0D1117&ring=6CE5E8&fire=6CE5E8&currStreakLabel=6CE5E8&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub Streak" />
 
 <br><br>
 
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiltd2758&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6CE5E8&line=6CE5E8&point=FFFFFF&area=true&area_color=1B4965&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
 
 </div>
 
 <br>
 
+<!-- Profile Details -->
 <div align="center">
 
 ### DETAILED OVERVIEW
@@ -142,6 +152,7 @@ const developer = {
 
 <br>
 
+<!-- Connect Section -->
 <div align="center">
 
 ### CONNECT
@@ -160,9 +171,10 @@ const developer = {
 
 <br>
 
+<!-- Footer Wave -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,12,20&amp;height=150&amp;section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer" width="100%" />
 
 <br>
 
