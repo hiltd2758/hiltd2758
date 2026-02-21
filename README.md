@@ -1,55 +1,44 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Hil&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Frontend-focused%20CS%20Student%20%7C%20Building%20Real-World%20Web%20Apps&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TYPING SVG -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%91%8B+Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Hil!;%F0%9F%9A%80+Currently+learning+TypeScript+%26+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=👋+Hi+there%2C+I'm+Hil!;🚀+Currently+learning+TypeScript+%26+React)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME BOX -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-## � About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td>
 
 ```yaml
-name: Hil (hiltd2758)
-location: Ho Chi Minh City, Vietnam 🇻🇳
-education: Sinh viên năm 4 — UTH
-focus: Frontend Development & Web Applications
-currently_learning: TypeScript & React (deep dive)
-fun_fact: 10+ real-world projects built and counting
+name       : Hil (hiltd2758)
+location   : Ho Chi Minh City, Vietnam 🇻🇳
+education  : 4th Year CS Student — UTH
+focus      : Frontend Development & Web Apps
+learning   : TypeScript & React (advanced)
+projects   : 10+ real-world apps built
+goal       : Land a Frontend Developer role
 ```
 
 </td>
 <td>
 
 - 🎓 **4th Year CS Student** at UTH
-- 💻 **Frontend-focused** — crafting pixel-perfect UIs
-- 🔭 Working on **real-world web applications**
-- 🌱 Deepening skills in **TypeScript** & **React**
-- ⚡ Comfortable with both **frontend & backend** stacks
-- 🎯 Goal: **Land a frontend developer role**
+- 💻 **Frontend-focused** — crafting clean, responsive UIs
+- 🔭 Building **real-world web applications**
+- 🌱 Going deep on **TypeScript** & **React**
+- ⚡ Comfortable across the **full stack**
+- 🤝 Open to **collaborations & opportunities**
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK BOX -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 🧰 Tech Stack
 
@@ -87,19 +76,18 @@ fun_fact: 10+ real-world projects built and counting
 </td>
 <td align="center" width="25%">
 
-**🛠️ DevOps & Tools**
+**🛠️ Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS BOX -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 📊 GitHub Stats
 
@@ -107,7 +95,7 @@ fun_fact: 10+ real-world projects built and counting
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiltd2758&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hiltd2758&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" width="100%" />
 
 </td>
 <td width="50%">
@@ -124,66 +112,17 @@ fun_fact: 10+ real-world projects built and counting
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TROPHY BOX -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=hiltd2758&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CURRENTLY LEARNING BOX -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📚 Currently Learning
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-```
-╔══════════════════════════════════════╗
-║  📘 TypeScript                       ║
-║  ██████████████████░░░░  75%         ║
-║  Generics, Utility Types, Patterns   ║
-╚══════════════════════════════════════╝
-```
-
-</td>
-<td align="center" width="50%">
-
-```
-╔══════════════════════════════════════╗
-║  ⚛️  React (Advanced)                ║
-║  ████████████████░░░░░░  65%         ║
-║  Hooks, Context, Performance         ║
-╚══════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Hil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hiltd2758&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiltd2758&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT BOX -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 🤝 Connect With Me
 
@@ -195,23 +134,7 @@ fun_fact: 10+ real-world projects built and counting
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiltd2758/hiltd2758/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiltd2758/hiltd2758/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hiltd2758/hiltd2758/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
