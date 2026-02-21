@@ -1,145 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Hil&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Frontend-focused%20CS%20Student%20%7C%20Building%20Real-World%20Web%20Apps&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=HIL&fontSize=120&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer%20%26%20Computer%20Science%20Student&descSize=20&descAlignY=58&descAlign=50" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=👋+Hi+there%2C+I'm+Hil!;🚀+Currently+learning+TypeScript+%26+React)](https://git.io/typing-svg)
+<!-- Animated Typing Introduction -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=6CE5E8&center=true&vCenter=true&width=600&height=100&lines=Building+the+future+of+web+experiences;TypeScript+%7C+React+%7C+Full+Stack;10%2B+production+applications+shipped;Currently+seeking+frontend+opportunities" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+<!-- About Section with Minimal Design -->
+<div align="center">
+  
+### DEVELOPER PROFILE
 
-<table>
-<tr>
-<td>
+</div>
 
-```yaml
-name       : Hil (hiltd2758)
-location   : Ho Chi Minh City, Vietnam 🇻🇳
-education  : 4th Year CS Student — UTH
-focus      : Frontend Development & Web Apps
-learning   : TypeScript & React (advanced)
-projects   : 10+ real-world apps built
-goal       : Land a Frontend Developer role
+```typescript
+const developer = {
+  name: "Hil",
+  username: "hiltd2758",
+  location: "Ho Chi Minh City, Vietnam",
+  education: {
+    university: "University of Transport Ho Chi Minh City",
+    year: "4th Year",
+    major: "Computer Science"
+  },
+  specialization: "Frontend Development",
+  currentFocus: ["TypeScript", "React", "Modern Web Architecture"],
+  experience: {
+    projectsBuilt: 10,
+    type: "Real-world production applications"
+  },
+  interests: [
+    "Clean Code",
+    "UI/UX Design",
+    "Performance Optimization",
+    "Web Accessibility"
+  ],
+  status: "Open to opportunities and collaborations"
+};
 ```
 
-</td>
-<td>
+<br>
 
-- 🎓 **4th Year CS Student** at UTH
-- 💻 **Frontend-focused** — crafting clean, responsive UIs
-- 🔭 Building **real-world web applications**
-- 🌱 Going deep on **TypeScript** & **React**
-- ⚡ Comfortable across the **full stack**
-- 🤝 Open to **collaborations & opportunities**
+<!-- Tech Stack Section -->
+<div align="center">
 
-</td>
-</tr>
-</table>
+### TECHNOLOGY ARSENAL
 
----
+</div>
 
-## 🧰 Tech Stack
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="25%">
+<td valign="top" width="33%">
 
-**🎨 Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-
-</td>
-<td align="center" width="25%">
-
-**⚙️ Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
+<div align="center">  
+<strong>FRONTEND CORE</strong>
+<br><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+</div>
 
 </td>
-<td align="center" width="25%">
+<td valign="top" width="33%">
 
-**🗄️ Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=fff)
+<div align="center">
+<strong>BACKEND & DATA</strong>
+<br><br>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /></a>
+</div>
 
 </td>
-<td align="center" width="25%">
+<td valign="top" width="33%">
 
-**🛠️ Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+<div align="center">
+<strong>DEVELOPMENT TOOLS</strong>
+<br><br>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></a>
+<a href="https://eslint.org/" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" /></a>
+</div>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Stats
+<!-- GitHub Statistics -->
+<div align="center">
+
+### CONTRIBUTION METRICS
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiltd2758&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hiltd2758&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=FFFFFF&ring_color=6CE5E8&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiltd2758&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiltd2758&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=FFFFFF&langs_count=10&card_width=400" width="100%" alt="Top Languages" />
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hiltd2758&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="70%" />
+<!-- Contribution Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hiltd2758&theme=radical&hide_border=true&background=0D1117&ring=6CE5E8&fire=6CE5E8&currStreakLabel=6CE5E8&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub Streak" />
 
-</div>
+<br><br>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hiltd2758&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiltd2758&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6CE5E8&line=6CE5E8&point=FFFFFF&area=true&area_color=1B4965&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
 
 </div>
 
----
+<br>
 
-## 🤝 Connect With Me
-
+<!-- Profile Details -->
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff)](https://fb.com/hiltd05)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/hilhilhil_hilhil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/hiltd2758)
+### DETAILED OVERVIEW
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiltd2758&theme=radical&hide_border=true" width="95%" alt="Profile Details" />
 
 </div>
 
----
+<br>
 
+<!-- Connect Section -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+### CONNECT
 
-![Profile Views](https://komarev.com/ghpvc/?username=hiltd2758&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://fb.com/hiltd05" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" alt="Facebook" />
+</a>
+<a href="https://instagram.com/hilhilhil_hilhil" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" />
+</a>
+<a href="https://github.com/hiltd2758" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+</a>
+
+</div>
+
+<br>
+
+<!-- Footer Wave -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer" width="100%" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hiltd2758&color=6CE5E8&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
+**"Code is poetry written for machines to execute and humans to admire"**
 
 </div>
