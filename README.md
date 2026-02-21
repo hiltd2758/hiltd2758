@@ -1,8 +1,9 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=header" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Tran+Dong+Hil" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Tran+Dong+Hil;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
   </a>
 </p>
 
