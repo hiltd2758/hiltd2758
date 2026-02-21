@@ -102,26 +102,6 @@ const developer = {
 
 <br>
 
-<!-- GitHub Statistics -->
-<div align="center">
-
-### CONTRIBUTION METRICS
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hiltd2758&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=FFFFFF&ring_color=6CE5E8&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiltd2758&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=FFFFFF&langs_count=10&card_width=400" width="100%" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
 <br>
 
 <!-- Contribution Streak -->
