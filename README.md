@@ -1,12 +1,15 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=HIL&fontSize=120&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend%20Engineer%20%26%20Computer%20Science%20Student&descSize=20&descAlignY=58&descAlign=50" width="100%" />
+<!-- Animated Wave Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=Tran%20Dong%20Hil&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%26%20Computer%20Science%20Student&descSize=22&descAlignY=58&descAlign=50" width="100%" />
 
-<!-- Animated Typing Introduction -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=6CE5E8&center=true&vCenter=true&width=600&height=100&lines=Building+the+future+of+web+experiences;TypeScript+%7C+React+%7C+Full+Stack;10%2B+production+applications+shipped;Currently+seeking+frontend+opportunities" alt="Typing SVG" />
-</a>
+<!-- Animated Typing with Tech Stack -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
+  </a>
+</p>
 
 </div>
 
