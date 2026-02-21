@@ -2,12 +2,13 @@
 
 <!-- Animated Header Wave -->
 <!-- Animated Wave Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=Tran%20Dong%20Hil&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%26%20Computer%20Science%20Student&descSize=22&descAlignY=58&descAlign=50" width="100%" />
+<!-- Animated Wave Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,3,5,30&amp;height=300&amp;section=header&amp;text=Tran%20Dong%20Hil&amp;fontSize=90&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Frontend%20Engineer%20%26%20Computer%20Science%20Student&amp;descSize=22&amp;descAlignY=58&amp;descAlign=50" width="100%" />
 
 <!-- Animated Typing with Tech Stack -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=800&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=80&amp;lines=TypeScript+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
   </a>
 </p>
 
