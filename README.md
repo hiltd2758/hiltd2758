@@ -27,7 +27,7 @@ const developer = {
   education: {
     university: "University of Transport Ho Chi Minh City",
     year: "3th Year",
-    major: "Computer Science"
+    major: "Information Technology"
   },
   specialization: "Frontend Development",
   currentFocus: ["TypeScript", "React"],
